@@ -1,3 +1,2 @@
-consta a = 100;
-
-
+const a = 100;
+const b = myFunc = () => {};
